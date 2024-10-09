@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Physics-Inform Neural Networks solving PDEs**
 
-- 🌱 I’m currently learning, researching **PINNs, DeepONets, Mathematical Principles Governing Deep Learning Models**
+- 🌱 I’m currently learning, researching **PINNs, DeepONets, Mathematical Principles Governing Deep Learning Models, NLP**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Mathematics, Physics**
 
