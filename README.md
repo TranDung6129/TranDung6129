@@ -63,5 +63,3 @@
 </p>
 
 ---
-
-<h3 align="center">🚀 Let's build intelligent, embedded, and scalable systems!</h3>
